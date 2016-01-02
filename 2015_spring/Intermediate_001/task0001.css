@@ -1,0 +1,16 @@
+h1 {
+    color: #ff6600;
+}
+h2 {
+    font-size: 14px;
+}
+p {
+    font-size: 12px;
+    background-color: #ff6600;
+    color: aliceblue;
+}
+img {
+    border-bottom: 2px;
+    border-color: red;
+    border-style: solid;
+}
