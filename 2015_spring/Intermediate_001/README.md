@@ -14,8 +14,8 @@
 
 在`task0001.html`中，实践以下内容：
 
-- 用两种方法来实现一个背景色为`红色`、宽度为`960px`的`<DIV>`在浏览器中居中
-- 有的圆角矩形是复杂图案，无法直接用border-radius，请在不使用border-radius的情况下实现一个可复用的高度和宽度都自适应的圆角矩形 ![示例](img/task0001_7.png)
+- 用两种方法来实现一个背景色为`红色`、宽度为`960px`的`<DIV>`在浏览器中居中：[代码文件](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate_001/%236.%20box-model-position/item1)，[博文总结](http://www.cnblogs.com/honoka/p/5146953.html)
+- 有的圆角矩形是复杂图案，无法直接用border-radius，请在不使用border-radius的情况下实现一个可复用的高度和宽度都自适应的圆角矩形：[代码文件](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate_001/%236.%20box-model-position/item2) ![示例](img/task0001_7.png)
 - 用两种不同的方法来实现一个两列布局，其中左侧部分宽度固定、右侧部分宽度随浏览器宽度的变化而自适应变化 ![示例](img/task0001_3.jpg)
 - 用两种不同的方式来实现一个三列布局，其中左侧和右侧的部分宽度固定，中间部分宽度随浏览器宽度的变化而自适应变化
 - 实现一个浮动布局，红色容器中每一行的蓝色容器数量随着浏览器宽度的变化而变化 ![示例1](img/task0001_4.jpg) ![示例2](img/task0001_5.jpg)
