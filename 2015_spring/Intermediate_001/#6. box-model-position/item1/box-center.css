@@ -1,0 +1,53 @@
+/*行内元素居中法*/
+#div-align {
+    text-align: center;
+}
+#div-center-01 {
+    width: 960px;
+    height: 20px;
+    background-color: #ff2c42;
+    display: inline-block;
+}
+/*margin居中法*/
+#div-margin {
+    width: 960px;
+    height: 20px;
+    background-color: #ff2c42;
+    margin: 0 auto;
+}
+/*绝对定位居中法*/
+#div-margin-absolute {
+    position: relative;
+    width: 1200px;
+    height: 100px;
+    background-color: #0c1eff;
+}
+#div-center-02 {
+     position: absolute;
+    width: 960px;
+    height: 20px;
+    background-color: #ff2c42;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+/*flex居中法*/
+#div-flex {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center; /* 垂直居中*/
+    -webkit-align-items:  center;
+    justify-content: center; /*水平居中*/
+    -webkit-justify-content: center;
+    width: 1200px;
+    height: 100px;
+    background-color: #0c1eff;
+    margin-top: 10px;
+}
+#div-center-03 {
+    width: 960px;
+    height: 20px;
+    background-color: #ff2c42;
+}
