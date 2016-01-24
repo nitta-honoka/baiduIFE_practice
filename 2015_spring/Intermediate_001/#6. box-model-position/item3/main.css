@@ -1,0 +1,78 @@
+/*绝对定位*/
+#absolute-column {
+    position: relative;
+}
+
+#div-b-1 {
+    background-color: blue;
+    height: 30px;
+    margin-left: 50px;
+}
+
+#div-a-1 {
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#div-c-1 {
+    background-color: yellow;
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    top: 30px;
+}
+
+/*浮动定位*/
+#float-column {
+    margin-top: 30px;
+}
+
+#div-a-2 {
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    float: left;
+}
+
+#div-b-2 {
+    background-color: blue;
+    height: 30px;
+    margin-left: 50px;
+}
+
+#div-c-2 {
+    background-color: yellow;
+    width: 100%;
+    height: 30px;
+    clear: both;
+}
+
+/*BFC*/
+#bfc-column {
+    position: relative;
+    /*overflow: hidden;*/
+}
+
+#div-a-3 {
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    float: left;
+}
+
+#div-b-3 {
+    background-color: blue;
+    height: 30px;
+    /*overflow: hidden;*/
+}
+
+#div-c-3 {
+    background-color: yellow;
+    width: 100%;
+    height: 30px;
+    clear: both;
+}
