@@ -30,7 +30,12 @@
 #float-column {
     margin-top: 30px;
 }
-
+#div-b-2 {
+    background-color: blue;
+    height: 30px;
+    width: 100%;
+    margin-right: -50px;
+}
 #div-a-2 {
     background-color: red;
     width: 50px;
@@ -38,11 +43,7 @@
     float: left;
 }
 
-#div-b-2 {
-    background-color: blue;
-    height: 30px;
-    margin-left: 50px;
-}
+
 
 #div-c-2 {
     background-color: yellow;
