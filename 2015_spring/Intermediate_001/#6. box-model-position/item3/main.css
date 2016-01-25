@@ -68,7 +68,7 @@
 #div-b-3 {
     background-color: blue;
     height: 30px;
-    /*overflow: hidden;*/
+    overflow: hidden;
 }
 
 #div-c-3 {
