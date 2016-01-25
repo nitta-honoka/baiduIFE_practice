@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>三列布局</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+<div id="float">
+    <div id="div-left-01"><span>div-left</span></div>
+    <div id="div-right-01"><span>div-right</span></div>
+    <!--主元素要放在文档流最后-->
+    <div id="div-middle-01"><span>div-middle</span></div>
+</div>
+<div class="grid">
+    <!--自适应的主要元素应放在文档流前面优先渲染,双飞翼适合各类布局，三列能自由分布-->
+    <div id="div-middle-02">
+        <div id="middle-wrap-02"><span>div-middle</span></div>
+    </div>
+    <div id="div-left-02"><span>div-left</span></div>
+    <div id="div-right-02"><span>div-right</span></div>
+</div>
+<div class="flex">
+    <div id="div-left-03"><span>div-left</span></div>
+    <div id="div-middle-03"><span>div-middle</span></div>
+    <div id="div-right-03"><span>div-right</span></div>
+</div>
+
+</body>
+</html>
