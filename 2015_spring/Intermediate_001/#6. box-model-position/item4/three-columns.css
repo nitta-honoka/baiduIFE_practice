@@ -83,3 +83,24 @@ span {
     width: 200px;
     height: 50px;
 }
+/*利用BFC布局*/
+.bfc {
+    margin-top: 100px;
+}
+#div-left-04 {
+    background-color: red;
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+#div-right-04 {
+    background-color: yellow;
+    width: 200px;
+    height: 50px;
+    float: right;
+}
+#div-middle-04 {
+    background-color: #fff9ca;
+    height: 50px;
+    overflow: hidden;
+}
