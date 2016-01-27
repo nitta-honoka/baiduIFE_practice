@@ -17,18 +17,19 @@
 - 用两种方法来实现一个背景色为`红色`、宽度为`960px`的`<DIV>`在浏览器中居中：[源代码](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate/task0001/%236.%20box-model-position/item1)，[博文总结](http://www.cnblogs.com/honoka/p/5146953.html)
 - 有的圆角矩形是复杂图案，无法直接用border-radius，请在不使用border-radius的情况下实现一个可复用的高度和宽度都自适应的圆角矩形：[源代码](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate/task0001/%236.%20box-model-position/item2) ![示例](img/task0001_7.png)
 - 用两种不同的方法来实现一个两列布局，其中左侧部分宽度固定、右侧部分宽度随浏览器宽度的变化而自适应变化: [源代码](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate/task0001/%236.%20box-model-position/item3)，[博文总结《如何通过 CSS 实现一个左边固定宽度、右边自适应的两列布局》](http://www.cnblogs.com/honoka/p/5156133.html) ![示例](img/task0001_3.jpg)
-- 用两种不同的方式来实现一个三列布局，其中左侧和右侧的部分宽度固定，中间部分宽度随浏览器宽度的变化而自适应变化：[源代码](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate/task0001/%236.%20box-model-position/item4)
-- 实现一个浮动布局，红色容器中每一行的蓝色容器数量随着浏览器宽度的变化而变化：[源代码](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate/task0001/%236.%20box-model-position/item5) ![示例1](img/task0001_4.jpg) ![示例2](img/task0001_5.jpg)
+- 用两种不同的方式来实现一个三列布局，其中左侧和右侧的部分宽度固定，中间部分宽度随浏览器宽度的变化而自适应变化：[源代码](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate/task0001/%236.%20box-model-position/item4),[《CSS 布局实例系列（三）如何实现一个左右宽度固定，中间自适应的三列布局——也聊聊双飞翼》](http://www.cnblogs.com/honoka/p/5161836.html)
+- 实现一个浮动布局，红色容器中每一行的蓝色容器数量随着浏览器宽度的变化而变化：[源代码](https://github.com/nitta-honoka/baiduIFE_practice/tree/master/2015_spring/Intermediate/task0001/%236.%20box-model-position/item5),[《CSS 布局实例系列（四）如何实现容器中每一行的子容器数量随着浏览器宽度的变化而变化？》](http://www.cnblogs.com/honoka/p/5164616.html) ![示例1](img/task0001_4.jpg) ![示例2](img/task0001_5.jpg)
 
 
-### 6.2 期望达成
+### 6.2 知识点总结
 
-- 掌握块状元素、内联元素、和内联块状元素的概念与区别
-- 掌握盒模型的所有概念，学会如何计算各种盒模型相关的数值
-- 掌握`position`的相关知识
-- 掌握`float`的相关知识
+- 掌握块状元素、内联元素、和内联块状元素的概念与区别：块状、行内与行内块状
+- 掌握盒模型的所有概念，学会如何计算各种盒模型相关的数值：margin、padding、border、负边距
+- 掌握`position`的相关知识：static、relative、absolute（脱离文档流）、fixed
+- 掌握`float`的相关知识：脱离文档流，清除浮动
 - 掌握基本的布局方式
 - 了解`Grid`、`Flexbox`等布局方式
+- BFC 原理
 
 ### 6.3 参考资料
 
