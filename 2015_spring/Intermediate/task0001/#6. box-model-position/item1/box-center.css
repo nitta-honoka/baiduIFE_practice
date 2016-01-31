@@ -13,7 +13,9 @@
     width: 960px;
     height: 20px;
     background-color: #ff2c42;
-    margin: 0 auto;
+    /*/!*margin: 0 auto;*!/ 为了避免对上边距和下边距的干扰，此处不应如此简化*/
+    margin-left: auto;
+    margin-right: auto;
 }
 /*绝对定位居中法*/
 #div-margin-absolute {
