@@ -81,3 +81,9 @@ header {
     font-size: 12px;
     color: white;
 }
+/*博客列表区域*/
+.blog {
+    background-color: #999999;
+    width: auto;
+    height: 500px;
+}
