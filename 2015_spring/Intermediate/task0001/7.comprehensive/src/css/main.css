@@ -40,9 +40,15 @@ header {
     margin-left: 28px;
     margin-right: 28px;
 }
-#header-nav a {
+a {
     color: white;
     text-decoration: none;
+    font-size: 14px;
+    margin: 0 10px;
+}
+a:hover {
+    text-decoration: solid;
+    text-decoration-color: #ffffff;
 }
 #github-icon {
     position: absolute;
@@ -58,6 +64,28 @@ header {
 }
 #avatar {
     border-radius: 80px;
+}
+footer {
+    width: auto;
+    height: 340px;
+    background-color: #000000;
+}
+#footer-nav {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: solid 1px #333;
+}
+#relative-list {
+    overflow: hidden;
+}
+.relative-list {
+    float: left;
+    list-style-type: none;
+    color: #ffffff;
+}
+.list-title {
+    color: #cccccc;
 }
 /*首页*/
 .banner {
@@ -131,12 +159,36 @@ header {
     height: 180px;
 }
 .intro-container {
-    overflow: hidden;
+    /*overflow: hidden;*/
     background-color: #ffffff;
 }
 #intro {
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 100px;
     max-width: 980px;
     width: 100%;
+}
+#intro #avatar{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: -50px;
+}
+#intro #intro-text {
+    text-align: center;
+}
+#intro #intro-text h2 {
+    font-size: 20px;
+    font-family: "Century Gothic", sans-serif;
+    color: #000000;
+}
+#intro #intro-text p {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    max-width: 600px;
+    font-size: 14px;
+    color: #000000;
 }
