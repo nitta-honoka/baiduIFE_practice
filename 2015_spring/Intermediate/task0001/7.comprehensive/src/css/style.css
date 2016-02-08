@@ -7,16 +7,26 @@
 /*公用的部分*/
 p {
     text-indent: 2em;
+    font-size: 12px;
 }
 
 header {
     position: relative;
     width: 100%;
     height: 80px;
-    background-color: #ff6600;
     font-size: 14px;
+    background-color: #ff6600;
+}
+a {
+    margin: 0 10px;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
 }
 
+a:hover {
+    text-decoration: underline;
+}
 #header-content {
     overflow: hidden;
     margin-left: auto;
@@ -46,17 +56,6 @@ header {
     display: inline-block;
     margin-left: 28px;
     margin-right: 28px;
-}
-
-a {
-    color: white;
-    text-decoration: none;
-    font-size: 14px;
-    margin: 0 10px;
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 #github-icon {
@@ -106,10 +105,10 @@ footer {
 #relative-list {
     overflow: hidden;
     text-align: center;
-    max-width: 980px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
+    max-width: 980px;
 }
 
 .relative-list {
@@ -122,8 +121,8 @@ footer {
 }
 
 .list-title {
-    color: #cccccc;
     margin-bottom: 30px;
+    color: #cccccc;
 }
 
 #copyright {
@@ -174,18 +173,17 @@ footer {
     margin-bottom: 12px;
     text-align: right;
     font-size: 14px;
-    color: white;
+    color: #ffffff;
 }
 
-#banner-text article {
+#banner-text p {
     text-indent: 20px;
-    font-size: 12px;
-    color: white;
+    color: #ffffff;
 }
 
 #blog-container {
-    background-color: #eeeeee;
     padding-bottom: 100px;
+    background-color: #eeeeee;
 }
 
 #blog {
@@ -194,7 +192,6 @@ footer {
     overflow: hidden;
     max-width: 980px;
     width: 100%;
-    /*height: 100%;*/
 }
 
 .blog-list-content {
@@ -204,17 +201,15 @@ footer {
     margin-right: 5px;
     margin-top: 10px;
     width: 320px;
-    /*height: auto;*/
     background-color: #ffffff;
 }
 
 .blog-list-content p {
-    font-size: 12px;
-    line-height: 170%;
     margin-top: 15px;
     margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 25px;
+    line-height: 170%;
 }
 
 .blog-list-content img {
@@ -224,7 +219,6 @@ footer {
 }
 
 .intro-container {
-    /*overflow: hidden;*/
     background-color: #ffffff;
 }
 
