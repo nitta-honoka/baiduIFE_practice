@@ -27,7 +27,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-#header-content {
+.header-content {
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -36,29 +36,29 @@ a:hover {
     height: 80px;
 }
 
-#logo {
+.logo {
     float: left;
     margin-top: 20px;
 }
 
-#logo img {
+.logo img {
     width: 50px;
     height: 50px;
 }
 
-#header-nav {
+.header-nav {
     float: right;
     margin-top: 50px;
     list-style-type: none;
 }
 
-#header-nav li {
+.header-nav li {
     display: inline-block;
     margin-left: 28px;
     margin-right: 28px;
 }
 
-#github-icon {
+.github-icon {
     position: absolute;
     right: 10px;
     bottom: 0;
@@ -67,12 +67,12 @@ a:hover {
 }
 
 @media screen and (max-width: 980px) {
-    #github-icon {
+    .github-icon {
         display: none;
     }
 }
 
-#avatar {
+.avatar {
     border-radius: 80px;
     -webkit-transition: transform 1s;
     -moz-transition: transform 1s;
@@ -81,7 +81,7 @@ a:hover {
     transition: transform 1s;
 }
 
-#avatar:hover {
+.avatar:hover {
     -webkit-transform: rotate(360deg);
     -moz-transform: rotate(360deg);
     -ms-transform: rotate(360deg);
@@ -95,14 +95,14 @@ footer {
     background-color: #000000;
 }
 
-#footer-nav {
+.footer-nav {
     text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
     border-bottom: solid 1px #333;
 }
 
-#relative-list {
+.relative-list {
     overflow: hidden;
     text-align: center;
     margin-left: auto;
@@ -111,7 +111,7 @@ footer {
     max-width: 980px;
 }
 
-.relative-list {
+.relative-ul {
     display: inline-block;
     margin-left: 50px;
     margin-right: 50px;
@@ -125,7 +125,7 @@ footer {
     color: #cccccc;
 }
 
-#copyright {
+.copyright {
     display: block;
     text-align: center;
     margin-top: 50px;
@@ -134,7 +134,7 @@ footer {
     color: #ffffff;
 }
 
-#footer-icon {
+.footer-icon {
     display: block;
     text-align: center;
 }
@@ -151,7 +151,7 @@ footer {
     background-repeat: no-repeat;
 }
 
-#banner-box {
+.banner-box {
     position: absolute;
     right: 50px;
     bottom: 0;
@@ -165,28 +165,28 @@ footer {
     rgba(255, 255, 255, 0) 100%);
 }
 
-#banner-text {
+.banner-text {
     margin: 10px 10px 30px 10px;
 }
 
-#banner-text h3 {
+.banner-text h3 {
     margin-bottom: 12px;
     text-align: right;
     font-size: 14px;
     color: #ffffff;
 }
 
-#banner-text p {
+.banner-text p {
     text-indent: 20px;
     color: #ffffff;
 }
 
-#blog-container {
+.blog-container {
     padding-bottom: 100px;
     background-color: #eeeeee;
 }
 
-#blog {
+.blog {
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
@@ -222,7 +222,7 @@ footer {
     background-color: #ffffff;
 }
 
-#intro {
+.intro {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 100px;
@@ -230,7 +230,7 @@ footer {
     width: 100%;
 }
 
-#intro #avatar {
+.avatar {
     display: block;
     position: relative;
     margin-left: auto;
@@ -238,21 +238,47 @@ footer {
     top: -50px;
 }
 
-#intro #intro-text {
+.intro-text {
     text-align: center;
 }
 
-#intro #intro-text h2 {
+.intro-text h2 {
     font-size: 20px;
     font-family: "Century Gothic", sans-serif;
     color: #000000;
 }
 
-#intro #intro-text p {
+.intro-text p {
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
     max-width: 600px;
     font-size: 14px;
     color: #000000;
+}
+/*blog页面*/
+.container {
+    padding-bottom: 100px;
+    width: auto;
+    background-color: #dfdfdf;
+}
+.main-container {
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 980px;
+}
+.blog-wrap {
+    margin: 5px;
+    background-color: #ffffff;
+}
+.left {
+    float: left;
+    margin-right: 5px;
+    max-width: 700px;
+}
+.right {
+    float: right;
+    max-width: 270px;
+    /*width: 270px;*/
 }
