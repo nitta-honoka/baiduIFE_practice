@@ -4,6 +4,19 @@
     padding: 0;
 }
 
+/*清除浮动*/
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
 /*公用的部分*/
 p {
     text-indent: 2em;
@@ -27,6 +40,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+ul {
+    list-style-type: none;
+}
 .header-content {
     overflow: hidden;
     margin-left: auto;
@@ -49,13 +66,11 @@ a:hover {
 .header-nav {
     float: right;
     margin-top: 50px;
-    list-style-type: none;
 }
 
 .header-nav li {
     display: inline-block;
     margin-left: 28px;
-    margin-right: 28px;
 }
 
 .github-icon {
@@ -256,29 +271,152 @@ footer {
     font-size: 14px;
     color: #000000;
 }
+
 /*blog页面*/
 .container {
     padding-bottom: 100px;
     width: auto;
     background-color: #dfdfdf;
 }
+
 .main-container {
-    overflow: hidden;
     margin-left: auto;
     margin-right: auto;
     max-width: 980px;
 }
+
 .blog-wrap {
-    margin: 5px;
     background-color: #ffffff;
 }
+
 .left {
     float: left;
-    margin-right: 5px;
-    max-width: 700px;
+    width: 710px;
 }
+
 .right {
     float: right;
-    max-width: 270px;
+    width: 260px;
     /*width: 270px;*/
+}
+
+.blog-content {
+    position: relative;
+    margin: 10px 10px 10px 0;
+}
+.article {
+    padding: 20px 20px 30px 20px;
+}
+.main-head {
+    font-size: 16px;
+    color: #8F42A4;
+}
+
+.sub-head {
+    font-size: 12px;
+    color: #666;
+}
+.article-info {
+    text-align: right;
+    margin-right: 20px;
+    color: rgba(130, 130, 131, 0.7);
+}
+.blog-classify-time {
+    position: absolute;
+    top: 20px;
+    left: -50px;
+    width: 50px;
+    height: 80px;
+    text-align: center;
+
+}
+
+.blog-time {
+    display: block;
+    line-height: 40px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #3F1C4A;
+}
+
+.blog-classify {
+    display: block;
+    line-height: 40px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #8F42A4;
+}
+.page-info {
+    text-align: center;
+}
+.page-info li {
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+}
+.page-info a {
+    text-align: center;
+    font-size: 12px;
+    color: #000000;
+}
+.cur-page {
+    background-color: #8F42A4;
+}
+.cur-page a {
+    color: #ffffff;
+}
+.search {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+.search-wrap {
+    position: relative;
+    margin: 0 auto;
+}
+.search-box {
+    margin: 0;
+    padding: 8px 0 8px 42px;
+    border: solid 1px #cbcbcb;
+    font-size: 14px;
+    color: #cbcbcb;
+    background-image: url("../img/search.png");
+    background-repeat: no-repeat;
+}
+.search-box:focus {
+    border: solid 2px #000000;
+    color: #000000;
+}
+.search-box:focus+.search-button {
+    border: solid 2px #000000;
+}
+.search-button {
+    position: absolute;
+    border: 0;
+    width: 39px;
+    height: 39px;
+    font-size: 20px;
+    background-color: #cbcbcb;
+    color: #ffffff;
+    cursor: pointer;
+}
+.classify {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.classify dl {
+    padding: 10px 0 10px 10px;
+    border-top: solid 1px #cbcbcb;
+    border-bottom: solid 1px #cbcbcb;
+    border-left: solid 4px rgba(206, 175, 215, 0.81);
+}
+.classify a {
+    font-size: 14px;
+    color: #000000;
+}
+.classify .cur-classify {
+    border-left-color: rgba(63, 28, 74, 0.81);
+}
+.classify dl:hover {
+    border-left-color: rgba(63, 28, 74, 0.81);
 }
