@@ -4,35 +4,40 @@
     padding: 0;
 }
 
+
 /*清除浮动*/
+
 .clearfix:after {
-    content: ".";
     display: block;
-    height: 0;
     visibility: hidden;
     clear: both;
+    height: 0;
+    content: ".";
 }
 
 .clearfix {
     zoom: 1;
 }
 
+
 /*公用的部分*/
+
 p {
-    text-indent: 2em;
     font-size: 12px;
+    text-indent: 2em;
 }
 
 header {
+    font-size: 14px;
     position: relative;
     width: 100%;
     height: 80px;
-    font-size: 14px;
     background-color: #ff6600;
 }
+
 a {
-    margin: 0 10px;
     font-size: 14px;
+    margin: 0 10px;
     text-decoration: none;
     color: white;
 }
@@ -44,13 +49,14 @@ a:hover {
 ul {
     list-style-type: none;
 }
+
 .header-content {
     overflow: hidden;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 980px;
     width: 100%;
+    max-width: 980px;
     height: 80px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .logo {
@@ -88,19 +94,14 @@ ul {
 }
 
 .avatar {
-    border-radius: 80px;
-    -webkit-transition: transform 1s;
-    -moz-transition: transform 1s;
-    -ms-transition: transform 1s;
-    -o-transition: transform 1s;
+    transition: -webkit-transform 1s;
     transition: transform 1s;
+    transition: transform 1s, -webkit-transform 1s;
+    border-radius: 80px;
 }
 
 .avatar:hover {
     -webkit-transform: rotate(360deg);
-    -moz-transform: rotate(360deg);
-    -ms-transform: rotate(360deg);
-    -o-transform: rotate(360deg);
     transform: rotate(360deg);
 }
 
@@ -111,27 +112,27 @@ footer {
 }
 
 .footer-nav {
-    text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
-    border-bottom: solid 1px #333;
+    text-align: center;
+    border-bottom: solid 1px #333333;
 }
 
 .relative-list {
     overflow: hidden;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 30px;
     max-width: 980px;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
 }
 
 .relative-ul {
     display: inline-block;
-    margin-left: 50px;
     margin-right: 50px;
-    text-align: left;
+    margin-left: 50px;
     list-style-type: none;
+    text-align: left;
     color: #ffffff;
 }
 
@@ -141,11 +142,11 @@ footer {
 }
 
 .copyright {
+    font-size: 10px;
     display: block;
-    text-align: center;
     margin-top: 50px;
     margin-bottom: 10px;
-    font-size: 10px;
+    text-align: center;
     color: #ffffff;
 }
 
@@ -154,16 +155,17 @@ footer {
     text-align: center;
 }
 
+
 /*首页*/
+
 .banner {
     position: relative;
-    margin-top: 0;
     width: auto;
     height: 555px;
+    margin-top: 0;
     background-image: url("../img/banner-bg.jpg");
-    -webkit-background-size: 100% 555px;
-    background-size: 100% 555px;
     background-repeat: no-repeat;
+    background-size: 100% 555px;
 }
 
 .banner-box {
@@ -174,10 +176,8 @@ footer {
     max-width: 400px;
     height: auto;
     background-color: #ffffff;
-    background: linear-gradient(to bottom,
-    rgba(255, 255, 255, 0.7) 0%,
-    rgba(255, 255, 255, 0.5) 75%,
-    rgba(255, 255, 255, 0) 100%);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.7) 0%, rgba(255, 255, 255, 0.5) 75%, rgba(255, 255, 255, 0) 100%);
+
 }
 
 .banner-text {
@@ -185,9 +185,9 @@ footer {
 }
 
 .banner-text h3 {
+    font-size: 14px;
     margin-bottom: 12px;
     text-align: right;
-    font-size: 14px;
     color: #ffffff;
 }
 
@@ -202,35 +202,35 @@ footer {
 }
 
 .blog {
-    margin-left: auto;
-    margin-right: auto;
     overflow: hidden;
-    max-width: 980px;
     width: 100%;
+    max-width: 980px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .blog-list-content {
     float: left;
+    width: 320px;
+    margin-top: 10px;
+    margin-right: 5px;
     margin-bottom: -99999px;
     padding-bottom: 99999px;
-    margin-right: 5px;
-    margin-top: 10px;
-    width: 320px;
     background-color: #ffffff;
 }
 
 .blog-list-content p {
+    line-height: 170%;
     margin-top: 15px;
-    margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 25px;
-    line-height: 170%;
+    margin-left: 30px;
 }
 
 .blog-list-content img {
-    margin: 10px 10px 0 10px;
     width: 300px;
     height: 180px;
+    margin: 10px 10px 0 10px;
 }
 
 .intro-container {
@@ -238,19 +238,19 @@ footer {
 }
 
 .intro {
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 100px;
-    max-width: 980px;
     width: 100%;
+    max-width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 100px;
 }
 
 .avatar {
-    display: block;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
     top: -50px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .intro-text {
@@ -258,31 +258,33 @@ footer {
 }
 
 .intro-text h2 {
-    font-size: 20px;
     font-family: "Century Gothic", sans-serif;
+    font-size: 20px;
     color: #000000;
 }
 
 .intro-text p {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 30px;
-    max-width: 600px;
     font-size: 14px;
+    max-width: 600px;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
     color: #000000;
 }
 
+
 /*blog页面*/
+
 .container {
-    padding-bottom: 100px;
     width: auto;
+    padding-bottom: 100px;
     background-color: #dfdfdf;
 }
 
 .main-container {
-    margin-left: auto;
-    margin-right: auto;
     max-width: 980px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .blog-wrap {
@@ -304,23 +306,27 @@ footer {
     position: relative;
     margin: 10px 10px 10px 0;
 }
+
 .article {
     padding: 20px 20px 30px 20px;
 }
+
 .main-head {
     font-size: 16px;
-    color: #8F42A4;
+    color: #8f42a4;
 }
 
 .sub-head {
     font-size: 12px;
-    color: #666;
+    color: #666666;
 }
+
 .article-info {
-    text-align: right;
     margin-right: 20px;
+    text-align: right;
     color: rgba(130, 130, 131, 0.7);
 }
+
 .blog-classify-time {
     position: absolute;
     top: 20px;
@@ -328,95 +334,153 @@ footer {
     width: 50px;
     height: 80px;
     text-align: center;
-
 }
 
 .blog-time {
-    display: block;
     line-height: 40px;
+    display: block;
     height: 40px;
     color: #ffffff;
-    background-color: #3F1C4A;
+    background-color: #3f1c4a;
 }
 
 .blog-classify {
-    display: block;
     line-height: 40px;
+    display: block;
     height: 40px;
     color: #ffffff;
-    background-color: #8F42A4;
+    background-color: #8f42a4;
 }
+
 .page-info {
     text-align: center;
 }
+
 .page-info li {
     display: inline-block;
-    text-align: center;
     padding: 5px;
-}
-.page-info a {
     text-align: center;
+}
+
+.page-info a {
     font-size: 12px;
+    text-align: center;
     color: #000000;
 }
+
 .cur-page {
-    background-color: #8F42A4;
+    background-color: #8f42a4;
 }
+
 .cur-page a {
     color: #ffffff;
 }
+
 .search {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 15px;
 }
+
 .search-wrap {
     position: relative;
     margin: 0 auto;
 }
+
 .search-box {
+    font-size: 14px;
     margin: 0;
     padding: 8px 0 8px 42px;
-    border: solid 1px #cbcbcb;
-    font-size: 14px;
     color: #cbcbcb;
+    border: solid 1px #cbcbcb;
     background-image: url("../img/search.png");
     background-repeat: no-repeat;
 }
+
 .search-box:focus {
-    border: solid 2px #000000;
     color: #000000;
 }
-.search-box:focus+.search-button {
-    border: solid 2px #000000;
-}
+
 .search-button {
+    font-size: 20px;
     position: absolute;
-    border: 0;
     width: 39px;
     height: 39px;
-    font-size: 20px;
-    background-color: #cbcbcb;
-    color: #ffffff;
     cursor: pointer;
+    color: #ffffff;
+    border: 0;
+    background-color: #cbcbcb;
 }
+
 .classify {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
 .classify dl {
     padding: 10px 0 10px 10px;
     border-top: solid 1px #cbcbcb;
     border-bottom: solid 1px #cbcbcb;
     border-left: solid 4px rgba(206, 175, 215, 0.81);
 }
+
 .classify a {
     font-size: 14px;
     color: #000000;
 }
+
 .classify .cur-classify {
     border-left-color: rgba(63, 28, 74, 0.81);
 }
+
 .classify dl:hover {
     border-left-color: rgba(63, 28, 74, 0.81);
+}
+
+.blog-calendar {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.year-month a {
+    display: inline-block;
+    color: #602572;
+}
+
+.year-month span {
+    font-size: 12px;
+    color: #602572;
+}
+
+.year-month .year-left {
+    float: left;
+}
+
+.year-month .year-right {
+    float: right;
+}
+
+.blog-calendar table {
+    font-size: 12px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    color: #828283;
+}
+
+.blog-calendar td {
+    padding: 8px;
+    border-bottom: solid 1px #828283;
+}
+
+.blog-calendar .cur-day span {
+    padding: 3px;
+    color: #ffffff;
+    background-color: #602572;
+}
+
+.blog-calendar .tag-day {
+    font-weight: bold;
+    color: #602572;
 }
