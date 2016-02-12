@@ -3,10 +3,7 @@
     margin: 0;
     padding: 0;
 }
-
-
 /*清除浮动*/
-
 .clearfix:after {
     display: block;
     visibility: hidden;
@@ -14,19 +11,14 @@
     height: 0;
     content: ".";
 }
-
 .clearfix {
     zoom: 1;
 }
-
-
 /*公用的部分*/
-
 p {
     font-size: 12px;
     text-indent: 2em;
 }
-
 header {
     font-size: 14px;
     position: relative;
@@ -34,22 +26,18 @@ header {
     height: 80px;
     background-color: #ff6600;
 }
-
 a {
     font-size: 14px;
     margin: 0 10px;
     text-decoration: none;
     color: white;
 }
-
 a:hover {
     text-decoration: underline;
 }
-
 ul {
     list-style-type: none;
 }
-
 .header-content {
     overflow: hidden;
     width: 100%;
@@ -58,27 +46,22 @@ ul {
     margin-right: auto;
     margin-left: auto;
 }
-
 .logo {
     float: left;
     margin-top: 20px;
 }
-
 .logo img {
     width: 50px;
     height: 50px;
 }
-
 .header-nav {
     float: right;
     margin-top: 50px;
 }
-
 .header-nav li {
     display: inline-block;
     margin-left: 28px;
 }
-
 .github-icon {
     position: absolute;
     right: 10px;
@@ -86,38 +69,32 @@ ul {
     width: 30px;
     height: 34px;
 }
-
 @media screen and (max-width: 980px) {
     .github-icon {
         display: none;
     }
 }
-
 .avatar {
     transition: -webkit-transform 1s;
     transition: transform 1s;
     transition: transform 1s, -webkit-transform 1s;
     border-radius: 80px;
 }
-
 .avatar:hover {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
 }
-
 footer {
     width: auto;
     height: 340px;
     background-color: #000000;
 }
-
 .footer-nav {
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: center;
     border-bottom: solid 1px #333333;
 }
-
 .relative-list {
     overflow: hidden;
     max-width: 980px;
@@ -126,7 +103,6 @@ footer {
     margin-left: auto;
     text-align: center;
 }
-
 .relative-ul {
     display: inline-block;
     margin-right: 50px;
@@ -135,12 +111,10 @@ footer {
     text-align: left;
     color: #ffffff;
 }
-
 .list-title {
     margin-bottom: 30px;
     color: #cccccc;
 }
-
 .copyright {
     font-size: 10px;
     display: block;
@@ -149,15 +123,11 @@ footer {
     text-align: center;
     color: #ffffff;
 }
-
 .footer-icon {
     display: block;
     text-align: center;
 }
-
-
 /*首页*/
-
 .banner {
     position: relative;
     width: auto;
@@ -167,7 +137,6 @@ footer {
     background-repeat: no-repeat;
     background-size: 100% 555px;
 }
-
 .banner-box {
     position: absolute;
     right: 50px;
@@ -177,30 +146,24 @@ footer {
     height: auto;
     background-color: #ffffff;
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0.7) 0%, rgba(255, 255, 255, 0.5) 75%, rgba(255, 255, 255, 0) 100%);
-
 }
-
 .banner-text {
     margin: 10px 10px 30px 10px;
 }
-
 .banner-text h3 {
     font-size: 14px;
     margin-bottom: 12px;
     text-align: right;
     color: #ffffff;
 }
-
 .banner-text p {
     text-indent: 20px;
     color: #ffffff;
 }
-
 .blog-container {
     padding-bottom: 100px;
     background-color: #eeeeee;
 }
-
 .blog {
     overflow: hidden;
     width: 100%;
@@ -208,7 +171,6 @@ footer {
     margin-right: auto;
     margin-left: auto;
 }
-
 .blog-list-content {
     float: left;
     width: 320px;
@@ -218,7 +180,6 @@ footer {
     padding-bottom: 99999px;
     background-color: #ffffff;
 }
-
 .blog-list-content p {
     line-height: 170%;
     margin-top: 15px;
@@ -226,17 +187,14 @@ footer {
     margin-bottom: 25px;
     margin-left: 30px;
 }
-
 .blog-list-content img {
     width: 300px;
     height: 180px;
     margin: 10px 10px 0 10px;
 }
-
 .intro-container {
     background-color: #ffffff;
 }
-
 .intro {
     width: 100%;
     max-width: 980px;
@@ -244,7 +202,6 @@ footer {
     margin-left: auto;
     padding-bottom: 100px;
 }
-
 .avatar {
     position: relative;
     top: -50px;
@@ -252,17 +209,14 @@ footer {
     margin-right: auto;
     margin-left: auto;
 }
-
 .intro-text {
     text-align: center;
 }
-
 .intro-text h2 {
     font-family: "Century Gothic", sans-serif;
     font-size: 20px;
     color: #000000;
 }
-
 .intro-text p {
     font-size: 14px;
     max-width: 600px;
@@ -271,62 +225,49 @@ footer {
     margin-left: auto;
     color: #000000;
 }
-
-
 /*blog页面*/
-
 .container {
     width: auto;
     padding-bottom: 100px;
     background-color: #dfdfdf;
 }
-
 .main-container {
     max-width: 980px;
     margin-right: auto;
     margin-left: auto;
 }
-
 .blog-wrap {
     background-color: #ffffff;
 }
-
 .left {
     float: left;
     width: 710px;
 }
-
 .right {
     float: right;
     width: 260px;
     /*width: 270px;*/
 }
-
 .blog-content {
     position: relative;
     margin: 10px 10px 10px 0;
 }
-
 .article {
     padding: 20px 20px 30px 20px;
 }
-
 .main-head {
     font-size: 16px;
     color: #8f42a4;
 }
-
 .sub-head {
     font-size: 12px;
     color: #666666;
 }
-
 .article-info {
     margin-right: 20px;
     text-align: right;
     color: rgba(130, 130, 131, 0.7);
 }
-
 .blog-classify-time {
     position: absolute;
     top: 20px;
@@ -335,7 +276,6 @@ footer {
     height: 80px;
     text-align: center;
 }
-
 .blog-time {
     line-height: 40px;
     display: block;
@@ -343,7 +283,6 @@ footer {
     color: #ffffff;
     background-color: #3f1c4a;
 }
-
 .blog-classify {
     line-height: 40px;
     display: block;
@@ -351,42 +290,34 @@ footer {
     color: #ffffff;
     background-color: #8f42a4;
 }
-
 .page-info {
     text-align: center;
 }
-
 .page-info li {
     display: inline-block;
     padding: 5px;
     text-align: center;
 }
-
 .page-info a {
     font-size: 12px;
     text-align: center;
     color: #000000;
 }
-
 .cur-page {
     background-color: #8f42a4;
 }
-
 .cur-page a {
     color: #ffffff;
 }
-
 .search {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 15px;
 }
-
 .search-wrap {
     position: relative;
     margin: 0 auto;
 }
-
 .search-box {
     font-size: 14px;
     margin: 0;
@@ -396,11 +327,9 @@ footer {
     background-image: url("../img/search.png");
     background-repeat: no-repeat;
 }
-
 .search-box:focus {
     color: #000000;
 }
-
 .search-button {
     font-size: 20px;
     position: absolute;
@@ -411,75 +340,61 @@ footer {
     border: 0;
     background-color: #cbcbcb;
 }
-
 .classify {
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
 .classify dl {
     padding: 10px 0 10px 10px;
     border-top: solid 1px #cbcbcb;
     border-bottom: solid 1px #cbcbcb;
     border-left: solid 4px rgba(206, 175, 215, 0.81);
 }
-
 .classify a {
     font-size: 14px;
     color: #000000;
 }
-
 .classify .cur-classify {
     border-left-color: rgba(63, 28, 74, 0.81);
 }
-
 .classify dl:hover {
     border-left-color: rgba(63, 28, 74, 0.81);
 }
-
 .blog-calendar {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
     text-align: center;
 }
-
 .year-month a {
     display: inline-block;
     color: #602572;
 }
-
 .year-month span {
     font-size: 12px;
     color: #602572;
 }
-
 .year-month .year-left {
     float: left;
 }
-
 .year-month .year-right {
     float: right;
 }
-
 .blog-calendar table {
     font-size: 12px;
     margin: 0 auto;
     border-collapse: collapse;
     color: #828283;
 }
-
 .blog-calendar td {
     padding: 8px;
     border-bottom: solid 1px #828283;
 }
-
 .blog-calendar .cur-day span {
     padding: 3px;
     color: #ffffff;
     background-color: #602572;
 }
-
 .blog-calendar .tag-day {
     font-weight: bold;
     color: #602572;
