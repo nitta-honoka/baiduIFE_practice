@@ -399,3 +399,8 @@ footer {
     font-weight: bold;
     color: #602572;
 }
+.blog-tags li {
+    display: inline-block;
+    font-weight: bold;
+    color: ;
+}
