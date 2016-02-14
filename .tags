@@ -1,0 +1,318 @@
+html	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^<html lang="zh">$/;"	function	line:2
+head	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^<head>$/;"	function	line:4
+meta	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^    <meta charset="utf-8">$/;"	function	line:5
+title	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^    <title>综合练习作品页<\/title>$/;"	function	line:6
+link	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^    <link rel="stylesheet" href="css\/style.css">$/;"	function	line:7
+body	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^<body>$/;"	function	line:10
+header	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^    <header>$/;"	function	line:11
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^        <div class="header-content">$/;"	function	line:12
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <a href="index.html" class="logo">$/;"	function	line:13
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <img src="img\/logo.jpg" alt="honoka-rlogo" \/>$/;"	function	line:14
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <div class="header-nav">$/;"	function	line:22
+ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <ul>$/;"	function	line:23
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <li><a href="index.html">首页<\/a><\/li>$/;"	function	line:24
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <li><a href="blog.html">文章<\/a><\/li>$/;"	function	line:25
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <li><a href="gallery.html">作品<\/a><\/li>$/;"	function	line:26
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <li><a href="about.html">关于<\/a><\/li>$/;"	function	line:27
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^        <a class="github-icon" href="https:\/\/github.com\/nitta-honoka\/baiduIFE_practice">$/;"	function	line:31
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <img src="img\/icon-github.png" alt="github-icon" \/>$/;"	function	line:32
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^    <div class="container">$/;"	function	line:35
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^        <div class="main-container clearfix">$/;"	function	line:36
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <div class="left">$/;"	function	line:37
+nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <nav class="gallery-nav clearfix">$/;"	function	line:38
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <a href="#" class="all-nav">ALL<\/a>$/;"	function	line:39
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <a href="#" class="cur-nav js-nav">JavaScript Util Function<\/a>$/;"	function	line:40
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <a href="#" class="cur-nav ui-nav">UI Components<\/a>$/;"	function	line:41
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <a href="#" class="cur-nav frame-nav">Framework<\/a>$/;"	function	line:42
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <a href="#" class="cur-nav app-nav">Applications<\/a>$/;"	function	line:43
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <div class="blog-wrap">$/;"	function	line:45
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <div class="card-wrap clearfix">$/;"	function	line:46
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                        <div class="left-card-wrap">$/;"	function	line:47
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                            <div class="big-card">$/;"	function	line:48
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <img src="img\/blog-image1.jpg" alt="lovelive" \/>$/;"	function	line:49
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="card-content clearfix js-card">$/;"	function	line:50
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-tag">$/;"	function	line:51
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <span>J<\/span>$/;"	function	line:52
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-info">$/;"	function	line:54
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <h3>这里是标题<\/h3>$/;"	function	line:55
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <p>$/;"	function	line:56
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                            <div class="columns">$/;"	function	line:62
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:63
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image2.jpg" alt="" class="common-img" \/>$/;"	function	line:64
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix app-card">$/;"	function	line:65
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:66
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>A<\/span>$/;"	function	line:67
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:69
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:70
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:71
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:77
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image3.jpg" alt="" class="common-img" \/>$/;"	function	line:78
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix frame-card">$/;"	function	line:79
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:80
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>F<\/span>$/;"	function	line:81
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:83
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:84
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:85
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:91
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image1.jpg" alt="lovelive" class="common-img" \/>$/;"	function	line:92
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix js-card">$/;"	function	line:93
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:94
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>J<\/span>$/;"	function	line:95
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:97
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:98
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:99
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:105
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image4.jpg" alt="lovelive" class="common-img" \/>$/;"	function	line:106
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix ui-card">$/;"	function	line:107
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:108
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>U<\/span>$/;"	function	line:109
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:111
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:112
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:113
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                        <div class="right-card-wrap">$/;"	function	line:121
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                            <div class="columns">$/;"	function	line:122
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:123
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image4.jpg" alt="lovelive" class="common-img" \/>$/;"	function	line:124
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix ui-card">$/;"	function	line:125
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:126
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>U<\/span>$/;"	function	line:127
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:129
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:130
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:131
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:137
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image2.jpg" alt="lovelive" class="common-img" \/>$/;"	function	line:138
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix app-card">$/;"	function	line:139
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:140
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>A<\/span>$/;"	function	line:141
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:143
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:144
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:145
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:151
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image1.jpg" alt="lovelive" class="common-img" \/>$/;"	function	line:152
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix js-card">$/;"	function	line:153
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:154
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>J<\/span>$/;"	function	line:155
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:157
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:158
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:159
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:165
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image3.jpg" alt="lovelive" class="common-img" \/>$/;"	function	line:166
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix frame-card">$/;"	function	line:167
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:168
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>F<\/span>$/;"	function	line:169
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:171
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:172
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:173
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="common-card">$/;"	function	line:179
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <img src="img\/blog-image2.jpg" alt="lovelive" class="common-img" \/>$/;"	function	line:180
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="card-content clearfix app-card">$/;"	function	line:181
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-tag">$/;"	function	line:182
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <span>A<\/span>$/;"	function	line:183
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                        <div class="card-info">$/;"	function	line:185
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <h3>这里是标题<\/h3>$/;"	function	line:186
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                            <p>$/;"	function	line:187
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <div class="click-for-more blog-wrap">$/;"	function	line:201
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <a href="javascript:;">$/;"	function	line:202
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                        <span>︾<\/span>点击查看更多$/;"	function	line:203
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <div class="right">$/;"	function	line:207
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <div class="blog-wrap search" id="gallery-search">$/;"	function	line:208
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <div class="search-wrap">$/;"	function	line:209
+input	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                        <input type="text" class="search-box" value="Keywords" \/>$/;"	function	line:210
+button	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                        <button class="search-button">GO<\/button>$/;"	function	line:211
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <div class="blog-wrap">$/;"	function	line:214
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                    <div class="rank">$/;"	function	line:215
+h	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                        <h4>人气排行榜<\/h4>$/;"	function	line:216
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                        <div class="rank-body">$/;"	function	line:217
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                            <div class="item">$/;"	function	line:218
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="num">1<\/div>$/;"	function	line:219
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-wrap">$/;"	function	line:220
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="rank-scale-100"><\/div>$/;"	function	line:221
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-name">ui.tree<\/div>$/;"	function	line:223
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                            <div class="item">$/;"	function	line:225
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="num">2<\/div>$/;"	function	line:226
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-wrap">$/;"	function	line:227
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="rank-scale-80"><\/div>$/;"	function	line:228
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-name">util.trim<\/div>$/;"	function	line:230
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                            <div class="item">$/;"	function	line:232
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="num">3<\/div>$/;"	function	line:233
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-wrap">$/;"	function	line:234
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="rank-scale-60"><\/div>$/;"	function	line:235
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-name">app.todo<\/div>$/;"	function	line:237
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                            <div class="item">$/;"	function	line:239
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="num">4<\/div>$/;"	function	line:240
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-wrap">$/;"	function	line:241
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="rank-scale-40"><\/div>$/;"	function	line:242
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-name">ui.tab<\/div>$/;"	function	line:244
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                            <div class="item">$/;"	function	line:246
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="num">5<\/div>$/;"	function	line:247
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-wrap">$/;"	function	line:248
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                    <div class="rank-scale-20"> <\/div>$/;"	function	line:249
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                                <div class="rank-name">util.addClass<\/div>$/;"	function	line:251
+footer	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^    <footer>$/;"	function	line:259
+nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^        <nav class="footer-nav">$/;"	function	line:260
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <a href="index.html">主页<\/a>$/;"	function	line:261
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <a href="blog.html">文章<\/a>$/;"	function	line:262
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <a href="gallery.html">作品<\/a>$/;"	function	line:263
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <a href="about.html">关于<\/a>$/;"	function	line:264
+div	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^        <div class="relative-list">$/;"	function	line:272
+ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <ul class="relative-ul">$/;"	function	line:273
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li class="list-title">学习资料<\/li>$/;"	function	line:274
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:275
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:276
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:277
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:278
+ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <ul class="relative-ul">$/;"	function	line:280
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li class="list-title">友情链接<\/li>$/;"	function	line:281
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:282
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:283
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:284
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:285
+ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <ul class="relative-ul">$/;"	function	line:287
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li class="list-title">学习资料<\/li>$/;"	function	line:288
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:289
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:290
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:291
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:292
+ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <ul class="relative-ul">$/;"	function	line:294
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li class="list-title">学习资料<\/li>$/;"	function	line:295
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:296
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:297
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:298
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:299
+ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <ul class="relative-ul">$/;"	function	line:301
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li class="list-title">友情链接<\/li>$/;"	function	line:302
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:303
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:304
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:305
+li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^                <li><a href="#">LINK<\/a><\/li>$/;"	function	line:306
+span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^        <span class="copyright">版权信息<\/span>$/;"	function	line:309
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^        <a class="footer-icon" href="https:\/\/github.com\/nitta-honoka\/baiduIFE_practice">$/;"	function	line:310
+img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/gallery.html	/^            <img src="img\/icon-github.png" alt="github-icon" \/>$/;"	function	line:311
+*	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^* {$/;"	function	line:1
+.clearfix:after	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.clearfix:after {$/;"	function	line:9
+.clearfix	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.clearfix {$/;"	function	line:16
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^p {$/;"	function	line:22
+header	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^header {$/;"	function	line:26
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^a {$/;"	function	line:33
+a:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^a:hover {$/;"	function	line:39
+ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^ul {$/;"	function	line:42
+.header-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-content {$/;"	function	line:45
+.logo	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.logo {$/;"	function	line:53
+.logo img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.logo img {$/;"	function	line:57
+.header-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-nav {$/;"	function	line:61
+.header-nav li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-nav li {$/;"	function	line:65
+.github-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.github-icon {$/;"	function	line:69
+@media screen and (max-width: 980px)	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^@media screen and (max-width: 980px) {$/;"	function	line:76
+.github-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^    .github-icon {$/;"	function	line:77
+.avatar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.avatar {$/;"	function	line:81
+.avatar:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.avatar:hover {$/;"	function	line:85
+footer	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^footer {$/;"	function	line:92
+.footer-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.footer-nav {$/;"	function	line:97
+.relative-list	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.relative-list {$/;"	function	line:103
+.relative-ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.relative-ul {$/;"	function	line:111
+.list-title	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.list-title {$/;"	function	line:119
+.copyright	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.copyright {$/;"	function	line:123
+.footer-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.footer-icon {$/;"	function	line:131
+.blog-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-wrap {$/;"	function	line:135
+.banner	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.banner {$/;"	function	line:140
+.banner-box	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.banner-box {$/;"	function	line:149
+.banner-text	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.banner-text {$/;"	function	line:160
+.banner-text h3	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.banner-text h3 {$/;"	function	line:163
+.banner-text p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.banner-text p {$/;"	function	line:169
+.blog-container	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-container {$/;"	function	line:173
+.blog	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog {$/;"	function	line:177
+.blog-list-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-list-content {$/;"	function	line:184
+.blog-list-content p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-list-content p {$/;"	function	line:193
+.blog-list-content img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-list-content img {$/;"	function	line:197
+.intro-container	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.intro-container {$/;"	function	line:202
+.intro	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.intro {$/;"	function	line:205
+.avatar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.avatar {$/;"	function	line:212
+.intro-text	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.intro-text {$/;"	function	line:219
+.intro-text h2	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.intro-text h2 {$/;"	function	line:222
+.intro-text p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.intro-text p {$/;"	function	line:227
+.container	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.container {$/;"	function	line:238
+.main-container	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.main-container {$/;"	function	line:243
+.left	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left {$/;"	function	line:249
+.right	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.right {$/;"	function	line:253
+.blog-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-content {$/;"	function	line:258
+.article	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.article {$/;"	function	line:262
+.main-head	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.main-head {$/;"	function	line:265
+.sub-head	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.sub-head {$/;"	function	line:269
+.article-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.article-info {$/;"	function	line:273
+.blog-classify-time	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-classify-time {$/;"	function	line:278
+.blog-time	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-time {$/;"	function	line:286
+.blog-classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-classify {$/;"	function	line:293
+.page-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info {$/;"	function	line:300
+.page-info li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info li {$/;"	function	line:303
+.page-info a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info a {$/;"	function	line:308
+.cur-page	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.cur-page {$/;"	function	line:313
+.cur-page a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.cur-page a {$/;"	function	line:316
+.search	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search {$/;"	function	line:319
+.search-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-wrap {$/;"	function	line:324
+.search-box	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-box {$/;"	function	line:328
+.search-box:focus	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-box:focus {$/;"	function	line:337
+.search-button	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-button {$/;"	function	line:340
+.classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify {$/;"	function	line:350
+.classify dl	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify dl {$/;"	function	line:354
+.classify a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify a {$/;"	function	line:360
+.classify .cur-classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify .cur-classify {$/;"	function	line:364
+.classify dl:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify dl:hover {$/;"	function	line:367
+.blog-calendar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar {$/;"	function	line:370
+.year-month a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month a {$/;"	function	line:376
+.year-month span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month span {$/;"	function	line:380
+.year-month .year-left	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month .year-left {$/;"	function	line:384
+.year-month .year-right	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month .year-right {$/;"	function	line:387
+.blog-calendar table	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar table {$/;"	function	line:390
+.blog-calendar td	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar td {$/;"	function	line:396
+.blog-calendar .cur-day span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar .cur-day span {$/;"	function	line:400
+.blog-calendar .tag-day	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar .tag-day {$/;"	function	line:405
+.blog-tags li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-tags li {$/;"	function	line:409
+.blog-tags-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-tags-wrap {$/;"	function	line:414
+.tag-11px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-11px {$/;"	function	line:417
+.tag-12px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-12px {$/;"	function	line:420
+.tag-16px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-16px {$/;"	function	line:423
+.tag-20px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-20px {$/;"	function	line:426
+.tag-25px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-25px {$/;"	function	line:430
+.gallery-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav {$/;"	function	line:435
+.gallery-nav a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav a {$/;"	function	line:439
+.gallery-nav a:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav a:hover {$/;"	function	line:449
+.gallery-nav .all-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .all-nav {$/;"	function	line:452
+.gallery-nav .js-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .js-nav {$/;"	function	line:455
+.gallery-nav .ui-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .ui-nav {$/;"	function	line:458
+.gallery-nav .frame-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .frame-nav {$/;"	function	line:461
+.gallery-nav .app-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .app-nav {$/;"	function	line:464
+.gallery-nav .cur-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .cur-nav {$/;"	function	line:467
+.card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap {$/;"	function	line:470
+.card-wrap img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap img {$/;"	function	line:473
+.card-wrap span, .card-wrap p, .card-wrap h3	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap span, .card-wrap p, .card-wrap h3 {$/;"	function	line:476
+.left-card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap {$/;"	function	line:479
+.left-card-wrap .common-card, .right-card-wrap .common-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap .common-card, .right-card-wrap .common-card {$/;"	function	line:483
+.common-card img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.common-card img {$/;"	function	line:487
+.columns	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.columns {$/;"	function	line:490
+.left-card-wrap .big-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap .big-card {$/;"	function	line:498
+.right-card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.right-card-wrap {$/;"	function	line:501
+.big-card img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.big-card img {$/;"	function	line:505
+.card-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-content {$/;"	function	line:508
+.card-tag	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-tag {$/;"	function	line:511
+.card-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-info {$/;"	function	line:522
+.card-info p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-info p {$/;"	function	line:525
+.js-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.js-card {$/;"	function	line:528
+.ui-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.ui-card {$/;"	function	line:531
+.frame-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.frame-card {$/;"	function	line:534
+.app-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.app-card {$/;"	function	line:537
+.click-for-more	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more {$/;"	function	line:540
+.click-for-more a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more a {$/;"	function	line:545
+.click-for-more span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more span {$/;"	function	line:553
+#gallery-search	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^#gallery-search {$/;"	function	line:557
+.rank	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank {$/;"	function	line:560
+.rank h4	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank h4 {$/;"	function	line:563
+.rank-body	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank-body {$/;"	function	line:566
+.item	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item {$/;"	function	line:569
+.item .num	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .num {$/;"	function	line:573
+.item .rank-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-wrap {$/;"	function	line:583
+.item .rank-scale-100	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-100 {$/;"	function	line:592
+.item .rank-scale-80	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-80 {$/;"	function	line:597
+.item .rank-scale-60	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-60 {$/;"	function	line:602
+.item .rank-scale-40	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-40 {$/;"	function	line:607
+.item .rank-scale-20	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-20 {$/;"	function	line:612
+.item .rank-name	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-name {$/;"	function	line:617

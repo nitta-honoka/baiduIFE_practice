@@ -29,6 +29,8 @@
 ## File-based project format:
 *.ipr
 *.iws
+*.tags
+*.tags1
 
 ## Plugin-specific files:
 
