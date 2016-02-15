@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+body {
+    background-color: #EAEAEA;
+}
+
 /*清除浮动*/
 
 .clearfix:after {
@@ -235,11 +239,6 @@ footer {
 
 /*blog页面*/
 
-.container {
-    width: auto;
-    padding-bottom: 100px;
-    background-color: #dfdfdf;
-}
 .main-container {
     max-width: 980px;
     margin-right: auto;
@@ -299,6 +298,7 @@ footer {
 }
 .page-info {
     text-align: center;
+    margin-bottom: 50px;
 }
 .page-info li {
     display: inline-block;
@@ -539,6 +539,7 @@ footer {
 }
 .click-for-more {
     margin-top: 10px;
+    margin-bottom: 50px;
     width: 100%;
     background-color: #ffffff;
 }
@@ -618,4 +619,76 @@ footer {
     display: inline-block;
     position: absolute;
     margin-left: 120px;
+}
+/*
+自我介绍页面
+ */
+.about-container {
+    padding-top: 80px;
+}
+.about-content {
+    position: relative;
+    height: 1400px;
+    /*z-index: -2;*/
+}
+.time-line {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 5px;
+    height: 1400px;
+    background-color: #EAEAEA;
+}
+.about-container img {
+    display: block;
+    border: solid 8px #EAEAEA;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.about-content .timeline-avatar {
+    width: 150px;
+    height: 150px;
+    margin-top: -75px;
+}
+.about-content .contact-img {
+    margin-top: 300px;
+}
+.about-content .educate-img {
+    margin-top: 600px;
+}
+.about-content .company-img {
+    margin-top: 900px;
+}
+.year-info {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #EAEAEA;
+    border-radius: 20px;
+    padding: 5px 20px;
+    font-size: 12px;
+}
+.educate-year {
+    margin-top: 600px;
+}
+.left-title {
+    position: absolute;
+    left: 30%;
+    font-size: 20px;
+}
+.right-info {
+    position: absolute;
+    left: 55%;
+    width: 350px;
+    font-size: 14px;
+}
+.name-info {
+    top: 200px;
 }
