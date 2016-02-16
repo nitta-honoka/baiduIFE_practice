@@ -5,32 +5,32 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 *	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^* {$/;"	function	line:1
-body	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^body {$/;"	function	line:7
-.clearfix:after	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.clearfix:after {$/;"	function	line:13
-.clearfix	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.clearfix {$/;"	function	line:20
-p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^p {$/;"	function	line:26
-header	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^header {$/;"	function	line:30
-a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^a {$/;"	function	line:37
-a:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^a:hover {$/;"	function	line:43
-ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^ul {$/;"	function	line:46
-.header-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-content {$/;"	function	line:49
-.logo	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.logo {$/;"	function	line:57
-.logo img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.logo img {$/;"	function	line:61
-.header-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-nav {$/;"	function	line:65
-.header-nav li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-nav li {$/;"	function	line:69
-.github-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.github-icon {$/;"	function	line:73
-@media screen and (max-width: 980px)	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^@media screen and (max-width: 980px) {$/;"	function	line:80
-.github-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^    .github-icon {$/;"	function	line:81
-.avatar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.avatar {$/;"	function	line:85
-.avatar:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.avatar:hover {$/;"	function	line:89
-footer	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^footer {$/;"	function	line:96
-.footer-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.footer-nav {$/;"	function	line:101
-.relative-list	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.relative-list {$/;"	function	line:107
-.relative-ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.relative-ul {$/;"	function	line:115
-.list-title	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.list-title {$/;"	function	line:123
-.copyright	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.copyright {$/;"	function	line:127
-.footer-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.footer-icon {$/;"	function	line:135
-.blog-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-wrap {$/;"	function	line:139
+body	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^body {$/;"	function	line:6
+.clearfix:after	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.clearfix:after {$/;"	function	line:12
+.clearfix	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.clearfix {$/;"	function	line:19
+p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^p {$/;"	function	line:25
+header	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^header {$/;"	function	line:29
+a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^a {$/;"	function	line:36
+a:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^a:hover {$/;"	function	line:42
+ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^ul {$/;"	function	line:45
+.header-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-content {$/;"	function	line:48
+.logo	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.logo {$/;"	function	line:56
+.logo img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.logo img {$/;"	function	line:60
+.header-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-nav {$/;"	function	line:64
+.header-nav li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.header-nav li {$/;"	function	line:68
+.github-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.github-icon {$/;"	function	line:72
+@media screen and (max-width: 980px)	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^@media screen and (max-width: 980px) {$/;"	function	line:79
+.github-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^    .github-icon {$/;"	function	line:80
+.avatar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.avatar {$/;"	function	line:84
+.avatar:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.avatar:hover {$/;"	function	line:88
+footer	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^footer {$/;"	function	line:95
+.footer-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.footer-nav {$/;"	function	line:100
+.relative-list	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.relative-list {$/;"	function	line:106
+.relative-ul	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.relative-ul {$/;"	function	line:114
+.list-title	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.list-title {$/;"	function	line:122
+.copyright	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.copyright {$/;"	function	line:126
+.footer-icon	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.footer-icon {$/;"	function	line:134
+.blog-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-wrap {$/;"	function	line:138
 .banner	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.banner {$/;"	function	line:144
 .banner-box	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.banner-box {$/;"	function	line:153
 .banner-text	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.banner-text {$/;"	function	line:164
@@ -48,100 +48,104 @@ footer	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Int
 .intro-text h2	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.intro-text h2 {$/;"	function	line:226
 .intro-text p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.intro-text p {$/;"	function	line:231
 .main-container	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.main-container {$/;"	function	line:242
-.left	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left {$/;"	function	line:248
-.right	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.right {$/;"	function	line:252
-.blog-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-content {$/;"	function	line:257
-.article	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.article {$/;"	function	line:261
-.main-head	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.main-head {$/;"	function	line:264
-.sub-head	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.sub-head {$/;"	function	line:268
-.article-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.article-info {$/;"	function	line:272
-.blog-classify-time	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-classify-time {$/;"	function	line:277
-.blog-time	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-time {$/;"	function	line:285
-.blog-classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-classify {$/;"	function	line:292
-.page-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info {$/;"	function	line:299
-.page-info li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info li {$/;"	function	line:303
-.page-info a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info a {$/;"	function	line:308
-.cur-page	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.cur-page {$/;"	function	line:313
-.cur-page a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.cur-page a {$/;"	function	line:316
-.search	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search {$/;"	function	line:319
-.search-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-wrap {$/;"	function	line:324
-.search-box	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-box {$/;"	function	line:328
-.search-box:focus	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-box:focus {$/;"	function	line:337
-.search-button	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-button {$/;"	function	line:340
-.classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify {$/;"	function	line:350
-.classify dl	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify dl {$/;"	function	line:354
-.classify a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify a {$/;"	function	line:360
-.classify .cur-classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify .cur-classify {$/;"	function	line:364
-.classify dl:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify dl:hover {$/;"	function	line:367
-.blog-calendar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar {$/;"	function	line:370
-.year-month a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month a {$/;"	function	line:376
-.year-month span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month span {$/;"	function	line:380
-.year-month .year-left	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month .year-left {$/;"	function	line:384
-.year-month .year-right	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month .year-right {$/;"	function	line:387
-.blog-calendar table	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar table {$/;"	function	line:390
-.blog-calendar td	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar td {$/;"	function	line:396
-.blog-calendar .cur-day span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar .cur-day span {$/;"	function	line:400
-.blog-calendar .tag-day	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar .tag-day {$/;"	function	line:405
-.blog-tags li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-tags li {$/;"	function	line:409
-.blog-tags-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-tags-wrap {$/;"	function	line:414
-.tag-11px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-11px {$/;"	function	line:417
-.tag-12px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-12px {$/;"	function	line:420
-.tag-16px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-16px {$/;"	function	line:423
-.tag-20px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-20px {$/;"	function	line:426
-.tag-25px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-25px {$/;"	function	line:430
-.gallery-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav {$/;"	function	line:435
-.gallery-nav a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav a {$/;"	function	line:439
-.gallery-nav a:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav a:hover {$/;"	function	line:449
-.gallery-nav .all-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .all-nav {$/;"	function	line:452
-.gallery-nav .js-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .js-nav {$/;"	function	line:455
-.gallery-nav .ui-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .ui-nav {$/;"	function	line:458
-.gallery-nav .frame-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .frame-nav {$/;"	function	line:461
-.gallery-nav .app-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .app-nav {$/;"	function	line:464
-.gallery-nav .cur-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .cur-nav {$/;"	function	line:467
-.card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap {$/;"	function	line:470
-.card-wrap img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap img {$/;"	function	line:473
-.card-wrap span, .card-wrap p, .card-wrap h3	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap span, .card-wrap p, .card-wrap h3 {$/;"	function	line:476
-.left-card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap {$/;"	function	line:479
-.left-card-wrap .common-card, .right-card-wrap .common-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap .common-card, .right-card-wrap .common-card {$/;"	function	line:483
-.common-card img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.common-card img {$/;"	function	line:487
-.columns	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.columns {$/;"	function	line:490
-.left-card-wrap .big-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap .big-card {$/;"	function	line:498
-.right-card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.right-card-wrap {$/;"	function	line:501
-.big-card img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.big-card img {$/;"	function	line:505
-.card-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-content {$/;"	function	line:508
-.card-tag	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-tag {$/;"	function	line:511
-.card-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-info {$/;"	function	line:522
-.card-info p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-info p {$/;"	function	line:525
-.js-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.js-card {$/;"	function	line:528
-.ui-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.ui-card {$/;"	function	line:531
-.frame-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.frame-card {$/;"	function	line:534
-.app-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.app-card {$/;"	function	line:537
-.click-for-more	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more {$/;"	function	line:540
-.click-for-more a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more a {$/;"	function	line:546
-.click-for-more span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more span {$/;"	function	line:554
-#gallery-search	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^#gallery-search {$/;"	function	line:558
-.rank	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank {$/;"	function	line:561
-.rank h4	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank h4 {$/;"	function	line:564
-.rank-body	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank-body {$/;"	function	line:567
-.item	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item {$/;"	function	line:570
-.item .num	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .num {$/;"	function	line:574
-.item .rank-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-wrap {$/;"	function	line:584
-.item .rank-scale-100	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-100 {$/;"	function	line:593
-.item .rank-scale-80	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-80 {$/;"	function	line:598
-.item .rank-scale-60	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-60 {$/;"	function	line:603
-.item .rank-scale-40	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-40 {$/;"	function	line:608
-.item .rank-scale-20	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-20 {$/;"	function	line:613
-.item .rank-name	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-name {$/;"	function	line:618
-.about-container	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-container {$/;"	function	line:626
-.about-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content {$/;"	function	line:629
-.time-line	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.time-line {$/;"	function	line:634
-.about-container img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-container img {$/;"	function	line:643
-.about-content .timeline-avatar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content .timeline-avatar {$/;"	function	line:652
-.about-content .contact-img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content .contact-img {$/;"	function	line:657
-.about-content .educate-img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content .educate-img {$/;"	function	line:660
-.about-content .company-img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content .company-img {$/;"	function	line:663
-.year-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-info {$/;"	function	line:666
-.educate-year	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.educate-year {$/;"	function	line:678
-.left-title	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-title {$/;"	function	line:681
-.right-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.right-info {$/;"	function	line:686
-.name-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.name-info {$/;"	function	line:692
+.left	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left {$/;"	function	line:249
+.right	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.right {$/;"	function	line:253
+.blog-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-content {$/;"	function	line:258
+.article	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.article {$/;"	function	line:262
+.main-head	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.main-head {$/;"	function	line:265
+.sub-head	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.sub-head {$/;"	function	line:269
+.article-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.article-info {$/;"	function	line:273
+.blog-classify-time	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-classify-time {$/;"	function	line:278
+.blog-time	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-time {$/;"	function	line:286
+.blog-classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-classify {$/;"	function	line:293
+.page-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info {$/;"	function	line:300
+.page-info li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info li {$/;"	function	line:304
+.page-info a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.page-info a {$/;"	function	line:309
+.cur-page	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.cur-page {$/;"	function	line:314
+.cur-page a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.cur-page a {$/;"	function	line:317
+.search	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search {$/;"	function	line:320
+.search-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-wrap {$/;"	function	line:325
+.search-box	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-box {$/;"	function	line:329
+.search-box:focus	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-box:focus {$/;"	function	line:338
+.search-button	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.search-button {$/;"	function	line:341
+.classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify {$/;"	function	line:351
+.classify dl	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify dl {$/;"	function	line:355
+.classify a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify a {$/;"	function	line:361
+.classify .cur-classify	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify .cur-classify {$/;"	function	line:365
+.classify dl:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.classify dl:hover {$/;"	function	line:368
+.blog-calendar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar {$/;"	function	line:371
+.year-month a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month a {$/;"	function	line:377
+.year-month span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month span {$/;"	function	line:381
+.year-month .year-left	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month .year-left {$/;"	function	line:385
+.year-month .year-right	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-month .year-right {$/;"	function	line:388
+.blog-calendar table	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar table {$/;"	function	line:391
+.blog-calendar td	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar td {$/;"	function	line:397
+.blog-calendar .cur-day span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar .cur-day span {$/;"	function	line:401
+.blog-calendar .tag-day	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-calendar .tag-day {$/;"	function	line:406
+.blog-tags li	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-tags li {$/;"	function	line:410
+.blog-tags-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.blog-tags-wrap {$/;"	function	line:415
+.tag-11px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-11px {$/;"	function	line:418
+.tag-12px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-12px {$/;"	function	line:421
+.tag-16px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-16px {$/;"	function	line:424
+.tag-20px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-20px {$/;"	function	line:427
+.tag-25px	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.tag-25px {$/;"	function	line:431
+.gallery-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav {$/;"	function	line:438
+.gallery-nav a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav a {$/;"	function	line:442
+.gallery-nav a:hover	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav a:hover {$/;"	function	line:452
+.gallery-nav .all-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .all-nav {$/;"	function	line:455
+.gallery-nav .js-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .js-nav {$/;"	function	line:458
+.gallery-nav .ui-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .ui-nav {$/;"	function	line:461
+.gallery-nav .frame-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .frame-nav {$/;"	function	line:464
+.gallery-nav .app-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .app-nav {$/;"	function	line:467
+.gallery-nav .cur-nav	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.gallery-nav .cur-nav {$/;"	function	line:470
+.card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap {$/;"	function	line:473
+.card-wrap img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap img {$/;"	function	line:476
+.card-wrap span, .card-wrap p, .card-wrap h3	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-wrap span, .card-wrap p, .card-wrap h3 {$/;"	function	line:479
+.left-card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap {$/;"	function	line:482
+.left-card-wrap .common-card, .right-card-wrap .common-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap .common-card, .right-card-wrap .common-card {$/;"	function	line:486
+.common-card img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.common-card img {$/;"	function	line:490
+.columns	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.columns {$/;"	function	line:493
+.left-card-wrap .big-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-card-wrap .big-card {$/;"	function	line:501
+.right-card-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.right-card-wrap {$/;"	function	line:504
+.big-card img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.big-card img {$/;"	function	line:508
+.card-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-content {$/;"	function	line:511
+.card-tag	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-tag {$/;"	function	line:514
+.card-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-info {$/;"	function	line:525
+.card-info p	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.card-info p {$/;"	function	line:528
+.js-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.js-card {$/;"	function	line:531
+.ui-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.ui-card {$/;"	function	line:534
+.frame-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.frame-card {$/;"	function	line:537
+.app-card	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.app-card {$/;"	function	line:540
+.click-for-more	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more {$/;"	function	line:543
+.click-for-more a	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more a {$/;"	function	line:549
+.click-for-more span	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.click-for-more span {$/;"	function	line:557
+#gallery-search	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^#gallery-search {$/;"	function	line:561
+.rank	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank {$/;"	function	line:564
+.rank h4	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank h4 {$/;"	function	line:567
+.rank-body	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.rank-body {$/;"	function	line:570
+.item	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item {$/;"	function	line:573
+.item .num	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .num {$/;"	function	line:577
+.item .rank-wrap	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-wrap {$/;"	function	line:587
+.item .rank-scale-100	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-100 {$/;"	function	line:596
+.item .rank-scale-80	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-80 {$/;"	function	line:601
+.item .rank-scale-60	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-60 {$/;"	function	line:606
+.item .rank-scale-40	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-40 {$/;"	function	line:611
+.item .rank-scale-20	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-scale-20 {$/;"	function	line:616
+.item .rank-name	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.item .rank-name {$/;"	function	line:621
+.about-content	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content {$/;"	function	line:631
+.time-line	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.time-line {$/;"	function	line:639
+.about-content img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content img {$/;"	function	line:649
+.about-content .timeline-avatar	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content .timeline-avatar {$/;"	function	line:659
+.about-content .contact-img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content .contact-img {$/;"	function	line:667
+.about-content .educate-img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content .educate-img {$/;"	function	line:670
+.about-content .company-img	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.about-content .company-img {$/;"	function	line:673
+.year-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.year-info {$/;"	function	line:676
+.left-title	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.left-title {$/;"	function	line:689
+.right-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.right-info {$/;"	function	line:694
+.name-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.name-info {$/;"	function	line:700
+.contact-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.contact-info {$/;"	function	line:703
+.educate-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.educate-info {$/;"	function	line:706
+.collage	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.collage {$/;"	function	line:709
+.graduate	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.graduate {$/;"	function	line:712
+.intern-info	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.intern-info {$/;"	function	line:715
+.later-intern	/Users/niconicoAO/Documents/ideaProject/baiduIFE_practice/2015_spring/Intermediate/task0001/7.comprehensive/src/css/style.css	/^.later-intern {$/;"	function	line:718

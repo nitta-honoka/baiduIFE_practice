@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     background-color: #EAEAEA;
 }
@@ -139,6 +138,7 @@ footer {
 .blog-wrap {
     background-color: #ffffff;
 }
+
 /*首页*/
 
 .banner {
@@ -196,7 +196,7 @@ footer {
 }
 .blog-list-content p {
     line-height: 170%;
-    margin-top: 15px 30px 25px 30px;
+    margin: 15px 30px 25px 30px;
 }
 .blog-list-content img {
     width: 300px;
@@ -243,8 +243,9 @@ footer {
     max-width: 980px;
     margin-right: auto;
     margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
-
 .left {
     float: left;
     width: 710px;
@@ -431,7 +432,9 @@ footer {
     font-size: 25px;
     font-weight: 900;
 }
+
 /*作品页面*/
+
 .gallery-nav {
     margin-top: 15px;
     margin-bottom: 0;
@@ -471,7 +474,7 @@ footer {
     padding: 10px;
 }
 .card-wrap img {
-        display: block;
+    display: block;
 }
 .card-wrap span, .card-wrap p, .card-wrap h3 {
     color: #ffffff;
@@ -489,11 +492,11 @@ footer {
 }
 .columns {
     -webkit-column-count: 2;
-    -moz-column-count   : 2;
-    column-count        : 2;
-    -webkit-column-gap  : 10px;
-    -moz-column-gap     : 10px;
-            column-gap  : 10px;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-gap: 10px;
+    -moz-column-gap: 10px;
+    column-gap: 10px;
 }
 .left-card-wrap .big-card {
     margin-bottom: 10px;
@@ -620,16 +623,18 @@ footer {
     position: absolute;
     margin-left: 120px;
 }
+
 /*
 自我介绍页面
  */
-.about-container {
-    padding-top: 80px;
-}
+
 .about-content {
     position: relative;
-    height: 1400px;
-    /*z-index: -2;*/
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 10px;
+    height: 1300px;
+    z-index: -2;
 }
 .time-line {
     position: absolute;
@@ -639,8 +644,9 @@ footer {
     width: 5px;
     height: 1400px;
     background-color: #EAEAEA;
+    z-index: -1;
 }
-.about-container img {
+.about-content img {
     display: block;
     border: solid 8px #EAEAEA;
     margin-left: auto;
@@ -648,47 +654,67 @@ footer {
     width: 100px;
     height: 100px;
     border-radius: 100px;
+    background-color: #ffffff;
 }
 .about-content .timeline-avatar {
-    width: 150px;
-    height: 150px;
-    margin-top: -75px;
-}
-.about-content .contact-img {
-    margin-top: 300px;
-}
-.about-content .educate-img {
-    margin-top: 600px;
-}
-.about-content .company-img {
-    margin-top: 900px;
-}
-.year-info {
     position: absolute;
     left: 0;
     right: 0;
-    width: 100px;
+    width: 150px;
+    height: 150px;
+    top: -75px;
+}
+.about-content .contact-img {
+    margin-top: 250px;
+}
+.about-content .educate-img {
+    margin-top: 150px;
+}
+.about-content .company-img {
+    margin-top: 35px;
+}
+.year-info {
+    margin-top: 35px;
+    width: 60px;
     margin-left: auto;
     margin-right: auto;
     border: 5px solid #EAEAEA;
     border-radius: 20px;
     padding: 5px 20px;
+    text-align: center;
+    line-height: 20px;
     font-size: 12px;
-}
-.educate-year {
-    margin-top: 600px;
+    background-color: #ffffff;
 }
 .left-title {
     position: absolute;
-    left: 30%;
+    margin-left: 300px;
     font-size: 20px;
 }
 .right-info {
     position: absolute;
-    left: 55%;
+    margin-left: 580px;
     width: 350px;
     font-size: 14px;
 }
 .name-info {
-    top: 200px;
+    top: 111px;
+}
+.contact-info {
+    top: 400px;
+}
+.educate-info {
+    top: 675px;
+}
+.collage {
+    margin-top: 75px;
+}
+.graduate {
+    margin-top: 150px;
+}
+.intern-info {
+    top: 1055px;
+}
+.later-intern {
+    margin-top: 75px;
 }
