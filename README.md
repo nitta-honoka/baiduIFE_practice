@@ -27,7 +27,7 @@
   - DEMO：
   - 博文：
   - 不足：
-   - [] 进一步完善CSS模块化
-   - [] 优化class名
-   - [] 针对WEB语义化优化HTML标签
-   - [] 生成Github Page的DEMO页
+   - [ ] 进一步完善CSS模块化
+   - [ ] 优化class名
+   - [ ] 针对WEB语义化优化HTML标签
+   - [ ] 生成Github Page的DEMO页
