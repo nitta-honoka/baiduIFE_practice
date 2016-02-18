@@ -14,7 +14,8 @@
  - 2015_spring：2015年春季训练营
   - Intermediate：中级任务
     - task0001：任务一
-      - #6.box-model-position：盒模型练习
+      - 6.box-model-position：盒模型练习
+      - 7.comprehensive:综合练习
     - img: 相关图片
     - README.md 中级任务说明
 
