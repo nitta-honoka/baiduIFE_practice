@@ -24,10 +24,10 @@
   - 完成时间：2016.2.17
   - 学习了：HTML基础、CSS基础及布局相关、WEB语义化、前端编码规范
   - 实现了：使用原生CSS完成一个静态博客模板，包含首页、博文页、作品页、个人介绍页
-  - DEMO：
-  - 博文：
+  - DEMO：http://nitta-honoka.github.io/static_blog_template/index.html
+  - 系列博文：http://www.cnblogs.com/honoka/tag/IFE_spring_inter_task0001/
   - 不足：
    - [ ] 进一步完善CSS模块化
    - [ ] 优化class名
    - [ ] 针对WEB语义化优化HTML标签
-   - [ ] 生成Github Page的DEMO页
+   - [X] 生成Github Page的DEMO页
