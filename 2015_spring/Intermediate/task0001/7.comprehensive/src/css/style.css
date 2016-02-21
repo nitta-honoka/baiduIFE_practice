@@ -45,8 +45,10 @@ a:hover {
 ul {
     list-style-type: none;
 }
+/**
+ * 头部与尾部
+ */
 .header-content {
-    overflow: hidden;
     width: 100%;
     max-width: 980px;
     height: 80px;
@@ -69,7 +71,7 @@ ul {
     display: inline-block;
     margin-left: 28px;
 }
-.github-icon {
+.header-icon {
     position: absolute;
     right: 10px;
     bottom: 0;
@@ -77,23 +79,11 @@ ul {
     height: 34px;
 }
 @media screen and (max-width: 980px) {
-    .github-icon {
+    .header-icon {
         display: none;
     }
 }
-.avatar {
-    transition: transform 1s, -webkit-transform 1s;
-    border-radius: 80px;
-}
-.avatar:hover {
-    -webkit-transform: rotate(360deg);
-    -moz-transform: rotate(360deg);
-    -ms-transform: rotate(360deg);
-    -o-transform: rotate(360deg);
-    transform: rotate(360deg);
-}
 footer {
-    width: auto;
     height: 340px;
     background-color: #000000;
 }
@@ -104,7 +94,6 @@ footer {
     border-bottom: solid 1px #333333;
 }
 .relative-list {
-    overflow: hidden;
     max-width: 980px;
     margin-top: 30px;
     margin-right: auto;
@@ -135,11 +124,30 @@ footer {
     display: block;
     text-align: center;
 }
+/**
+ * 头像旋转动画
+ */
+.avatar {
+    transition: transform 1s, -webkit-transform 1s;
+    border-radius: 80px;
+}
+.avatar:hover {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+/**
+ * 页面白色卡片块
+ */
 .blog-wrap {
     background-color: #ffffff;
 }
 
-/*首页*/
+/*
+首页
+ */
 
 .banner {
     position: relative;
@@ -148,7 +156,7 @@ footer {
     margin-top: 0;
     background-image: url("../img/banner-bg.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 555px;
+    background-size: 100% 700px;
 }
 .banner-box {
     position: absolute;
@@ -164,7 +172,8 @@ footer {
 .banner-text {
     margin: 10px 10px 30px 10px;
 }
-.banner-text h3 {
+.banner-text .banner-text-title {
+    display: block;
     font-size: 14px;
     margin-bottom: 12px;
     text-align: right;
@@ -175,15 +184,9 @@ footer {
     color: #ffffff;
 }
 .blog-container {
-    padding-bottom: 100px;
-    background-color: #eeeeee;
-}
-.blog {
+    margin: 10px auto 100px ;
     overflow: hidden;
-    width: 100%;
     max-width: 980px;
-    margin-right: auto;
-    margin-left: auto;
 }
 .blog-list-content {
     float: left;
@@ -192,7 +195,6 @@ footer {
     margin-right: 5px;
     margin-bottom: -99999px;
     padding-bottom: 99999px;
-    background-color: #ffffff;
 }
 .blog-list-content p {
     line-height: 170%;
@@ -220,10 +222,9 @@ footer {
     margin-right: auto;
     margin-left: auto;
 }
-.intro-text {
+.intro-text title {
+    display: block;
     text-align: center;
-}
-.intro-text h2 {
     font-family: "Century Gothic", sans-serif;
     font-size: 20px;
     color: #000000;
@@ -241,10 +242,7 @@ footer {
 
 .main-container {
     max-width: 980px;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 20px auto 50px;
 }
 .left {
     float: left;
@@ -257,7 +255,7 @@ footer {
 }
 .blog-content {
     position: relative;
-    margin: 10px 10px 10px 0;
+    margin: 0 10px 10px 0;
 }
 .article {
     padding: 20px 20px 30px 20px;
@@ -299,7 +297,6 @@ footer {
 }
 .page-info {
     text-align: center;
-    margin-bottom: 50px;
 }
 .page-info li {
     display: inline-block;
@@ -318,7 +315,6 @@ footer {
     color: #ffffff;
 }
 .search {
-    margin-top: 10px;
     margin-bottom: 10px;
     padding: 15px;
 }
@@ -328,7 +324,6 @@ footer {
 }
 .search-box {
     font-size: 14px;
-    margin: 0;
     padding: 8px 0 8px 42px;
     color: #cbcbcb;
     border: solid 1px #cbcbcb;
@@ -349,7 +344,6 @@ footer {
     background-color: #cbcbcb;
 }
 .classify {
-    margin-top: 10px;
     margin-bottom: 10px;
 }
 .classify dl {
@@ -369,7 +363,6 @@ footer {
     border-left-color: #381142;
 }
 .blog-calendar {
-    margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
     text-align: center;
@@ -404,12 +397,11 @@ footer {
     background-color: #602572;
 }
 .blog-calendar .tag-day {
-    font-weight: bold;
+    font-weight: 800;
     color: #602572;
 }
 .blog-tags li {
     display: inline-block;
-    font-weight: bold;
     color: #602572;
 }
 .blog-tags-wrap {
@@ -436,7 +428,6 @@ footer {
 /*作品页面*/
 
 .gallery-nav {
-    margin-top: 15px;
     margin-bottom: 0;
 }
 .gallery-nav a {
@@ -503,7 +494,6 @@ footer {
 }
 .right-card-wrap {
     float: right;
-    /*width: 330px;*/
 }
 .big-card img {
     width: 100%;
@@ -542,7 +532,6 @@ footer {
 }
 .click-for-more {
     margin-top: 10px;
-    margin-bottom: 50px;
     width: 100%;
     background-color: #ffffff;
 }
@@ -559,7 +548,7 @@ footer {
     font-size: 12px;
 }
 #gallery-search {
-    margin-top: 75px;
+    margin-top: 62px;
 }
 .rank {
     padding: 10px;
