@@ -19,6 +19,6 @@ var util = function() {
      * @retrun Boolean true 是函数类型
      */
     function isFunction(fn) {
-
+        return Object.prototype.toString.call(fn) == "[object Function]";
     }
 }();
